@@ -1,0 +1,5 @@
+Questionnaire files for the 2022 DEI survey of the MAGIC collaboration:
+- *.lss file: can be used to create a copy of the survey in limesurvey
+- *.xml file: can be used for the analysis to easily import the questions used
+- *. pdf file: can be used to have a readable overview of the questions
+
